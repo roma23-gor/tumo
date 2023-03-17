@@ -85,7 +85,15 @@ class Game{
             countOfGold: this.countOfGold,
             countOfGreen: this.countOfGreen,
             clike: this.Clike,
-        }
+        };
+
+        fetch('/stats', {
+            method: 'POST',
+            headers: {
+                'Content-Type':'application/json',
+            },
+            body: JSON.stringify(stats)
+        });
     }
 
     static addBalloon(){
