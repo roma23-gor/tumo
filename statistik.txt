@@ -1,0 +1,7 @@
+{"coins":"","countOfBlack":0,"countOfBlue":0,"countOfGold":0,"countOfGreen":0,"clike":98}
+{"coins":45,"countOfBlack":0,"countOfBlue":5,"countOfGold":1,"countOfGreen":2,"clike":8}
+{"coins":102,"countOfBlack":0,"countOfBlue":12,"countOfGold":2,"countOfGreen":5,"clike":19}
+{"coins":157,"countOfBlack":0,"countOfBlue":17,"countOfGold":3,"countOfGreen":8,"clike":32}
+{"coins":213,"countOfBlack":1,"countOfBlue":23,"countOfGold":5,"countOfGreen":10,"clike":44}
+{"coins":257,"countOfBlack":1,"countOfBlue":27,"countOfGold":6,"countOfGreen":12,"clike":57}
+{"coins":343,"countOfBlack":1,"countOfBlue":33,"countOfGold":8,"countOfGreen":16,"clike":72}
